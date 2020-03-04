@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FCTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ExportNavMesh",
+			"Enabled": true
+		},
+		{
+			"Name": "FusionCrowd",
+			"Enabled": true
+		}
+	]
+}

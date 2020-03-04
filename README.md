@@ -9,6 +9,7 @@
 1. Правой кнопкой мыши нажать на **FCTest.uproject**, затем выбрать **Generate Visual Studio project files**
 2. Открыть сгенерированный файл проекта **FCTest.sln**
 3. Запустить проект из открытого файла в Visual Studio и ждать компиляции.
+
 Если возникнет ошибка связанная с enum перейти к пункту 4
 4. Добавить в файл **FusionCrowd/Source/FusionCrowd/Public/OperationComponentType.h** строчку ```OPT_Null = 0``` после
 
@@ -19,4 +20,4 @@ enum EOperationComponentType
 ```
 
 ## Описание
-Основные элементы агентного моделирования расположены в папке ***Content/BlueprintsSceneElements***
+Основные элементы агентного моделирования расположены в папке ***Content/Blueprints/SceneElements***

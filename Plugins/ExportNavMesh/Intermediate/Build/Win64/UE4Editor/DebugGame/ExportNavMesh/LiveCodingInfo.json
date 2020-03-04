@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ExportNavMesh.cpp.obj": [
+			"ExportNavMesh.cpp.obj",
+			"ExportNavMeshCommands.cpp.obj",
+			"ExportNavMeshStyle.cpp.obj",
+			"NavMeshViewer.cpp.obj"
+		],
+		"Module.ExportNavMesh.gen.cpp.obj": [
+			"ExportNavMesh.init.gen.cpp.obj",
+			"NavMeshViewer.gen.cpp.obj"
+		]
+	}
+}

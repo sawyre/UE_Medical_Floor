@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FusionCrowd.cpp.obj": [
+			"AgentInfo.cpp.obj",
+			"FCController.cpp.obj",
+			"FCMovmentComponent.cpp.obj",
+			"FCNavMesh.cpp.obj",
+			"FusionCrowd.cpp.obj",
+			"OperationComponentType.cpp.obj",
+			"Recording.cpp.obj",
+			"RecordingDrawer.cpp.obj",
+			"StrategyProxy.cpp.obj"
+		],
+		"Module.FusionCrowd.gen.cpp.obj": [
+			"AgentInfo.gen.cpp.obj",
+			"FCController.gen.cpp.obj",
+			"FCMovmentComponent.gen.cpp.obj",
+			"FCNavMesh.gen.cpp.obj",
+			"FusionCrowd.init.gen.cpp.obj",
+			"OperationComponentType.gen.cpp.obj",
+			"Recording.gen.cpp.obj"
+		]
+	}
+}
