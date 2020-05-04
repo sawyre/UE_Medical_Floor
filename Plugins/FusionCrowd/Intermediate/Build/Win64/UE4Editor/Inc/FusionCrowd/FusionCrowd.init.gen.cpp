@@ -25,8 +25,8 @@ void EmptyLinkFunctionForGeneratedCodeFusionCrowd_init() {}
 				SingletonFuncArray,
 				ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xEA67B193,
-				0x48DC17DC,
+				0x24EBD845,
+				0x03517201,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

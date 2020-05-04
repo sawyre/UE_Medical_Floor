@@ -4,6 +4,9 @@
 #include "Kismet/GameplayStatics.h"
 #include <vector>
 #include "Kismet/KismetMathLibrary.h"
+#include "iostream"
+
+using namespace std;
 
 UFCController::UFCController()
 {
@@ -29,6 +32,10 @@ void UFCController::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 		DoSimulationStep(DeltaTime*TimeScale);
 		GetAgentsInfo();
 		UpdateAgents();
+
+		//new line
+		DeleteExtinct();
+		//
 		if (_isPathsShown) _recordingDrawer.DrawCurrentSlice();
 	}
 }
@@ -43,6 +50,9 @@ void UFCController::StartSimulation()
 {
 	movment_components.Empty();
 	builder->WithExternalStrategy(_strategy_factory, reinterpret_cast<IStrategyComponent**>(&_strategy));
+	// new line
+	_id_storage = TMap<int32, UFCMovmentComponent*>();
+	//
 	simulator = TSharedPtr<FusionCrowd::ISimulatorFacade>(builder->Build(), [](FusionCrowd::ISimulatorFacade* Obj) { SimulatorFacadeDeleter(Obj); });
 	simulator->SetIsRecording(IsRecordingEnabled);
 	_recordingDrawer = RecordingDrawer(&(simulator->GetRecording()), GetWorld());
@@ -219,7 +229,35 @@ bool UFCController::ExportNavMeshToFile(FString file_path) {
 	return simulator->GetNavMesh()->ExportNavMeshToFile(TCHAR_TO_ANSI(*file_path));
 }
 
+// new line
+void UFCController::DeleteExtinct() {
+	TArray<int32> ToDel;
+	for (auto pair : _id_storage) {
+		if (pair.Value == NULL) {
+			cout << "is null: " << pair.Key;
+			simulator->RemoveAgent(pair.Key);
+			ToDel.Add(pair.Key);
+		}
+		if (!IsValid(pair.Value)) {
+			cout << "is not valid: " << pair.Key;
+			simulator->RemoveAgent(pair.Key);
+			ToDel.Add(pair.Key);
+		}
+	}
+	for (auto id : ToDel) {
+		_id_storage.Remove(id);
+	}
+}
+
 void UFCController::UpdateAgents() {
+	// new line
+	for (int i = movment_components.Num() - 1; i >= 0; i--) {
+		if (movment_components[i] == NULL) {
+			cout << "remove MC" << i;
+			movment_components.RemoveAt(i);
+		}
+	}
+	//
 	for (auto mc : movment_components) {
 		if (!mc->registrated) {
 			mc->registrated = RegistrateAgent(mc);
@@ -261,5 +299,8 @@ bool UFCController::RegistrateAgent(UFCMovmentComponent* mc_comp) {
 	pos /= 100.0f;
 	mc_comp->Id = AddAgent(pos, pos, mc_comp->OperationType.GetValue());
 	mc_comp->OnFCRegistrate.Broadcast(mc_comp);
+	// new line
+	_id_storage.Add(mc_comp->Id, mc_comp);
+	//
 	return true;
 }

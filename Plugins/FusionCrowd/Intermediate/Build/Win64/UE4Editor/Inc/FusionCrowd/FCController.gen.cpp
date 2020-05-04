@@ -21,6 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeFCController() {}
 	FUSIONCROWD_API UEnum* Z_Construct_UEnum_FusionCrowd_EOperationComponentType();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 	FUSIONCROWD_API UFunction* Z_Construct_UFunction_UFCController_CutPolygon();
+	FUSIONCROWD_API UFunction* Z_Construct_UFunction_UFCController_DeleteExtinct();
 	FUSIONCROWD_API UFunction* Z_Construct_UFunction_UFCController_DoSimulationStep();
 	FUSIONCROWD_API UFunction* Z_Construct_UFunction_UFCController_ExportNavMeshToFile();
 	FUSIONCROWD_API UFunction* Z_Construct_UFunction_UFCController_GetAgentInfo();
@@ -42,6 +43,7 @@ void EmptyLinkFunctionForGeneratedCodeFCController() {}
 		static const FNameNativePtrPair Funcs[] = {
 			{ "AddAgent", &UFCController::execAddAgent },
 			{ "CutPolygon", &UFCController::execCutPolygon },
+			{ "DeleteExtinct", &UFCController::execDeleteExtinct },
 			{ "DoSimulationStep", &UFCController::execDoSimulationStep },
 			{ "ExportNavMeshToFile", &UFCController::execExportNavMeshToFile },
 			{ "GetAgentInfo", &UFCController::execGetAgentInfo },
@@ -139,6 +141,29 @@ void EmptyLinkFunctionForGeneratedCodeFCController() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UFCController_CutPolygon_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_UFCController_DeleteExtinct_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UFCController_DeleteExtinct_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/FCController.h" },
+		{ "ToolTip", "new line" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UFCController_DeleteExtinct_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UFCController, nullptr, "DeleteExtinct", 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x00040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UFCController_DeleteExtinct_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_UFCController_DeleteExtinct_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_UFCController_DeleteExtinct()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_UFCController_DeleteExtinct_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -568,6 +593,7 @@ void EmptyLinkFunctionForGeneratedCodeFCController() {}
 	const FClassFunctionLinkInfo Z_Construct_UClass_UFCController_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UFCController_AddAgent, "AddAgent" }, // 3631881270
 		{ &Z_Construct_UFunction_UFCController_CutPolygon, "CutPolygon" }, // 2572689227
+		{ &Z_Construct_UFunction_UFCController_DeleteExtinct, "DeleteExtinct" }, // 2473028046
 		{ &Z_Construct_UFunction_UFCController_DoSimulationStep, "DoSimulationStep" }, // 4103510663
 		{ &Z_Construct_UFunction_UFCController_ExportNavMeshToFile, "ExportNavMeshToFile" }, // 1269732401
 		{ &Z_Construct_UFunction_UFCController_GetAgentInfo, "GetAgentInfo" }, // 3716334567
@@ -690,7 +716,7 @@ void EmptyLinkFunctionForGeneratedCodeFCController() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UFCController, 1713008773);
+	IMPLEMENT_CLASS(UFCController, 3033346242);
 	template<> FUSIONCROWD_API UClass* StaticClass<UFCController>()
 	{
 		return UFCController::StaticClass();

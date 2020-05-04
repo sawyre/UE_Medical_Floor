@@ -40,6 +40,8 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
+	TMap<int32, UFCMovmentComponent*> _id_storage; //new line
+	//TMap<int32, FAgentInfo> agentInfos;
 	TArray<FAgentInfo> agentInfos;
 	size_t agentCount;
 	TSharedPtr<ISimulatorFacade> simulator;
@@ -124,4 +126,7 @@ private:
 
 	UFUNCTION(BlueprintCallable, Category = "Fusion Crowd")
 		bool ExportNavMeshToFile(FString file_path);
+	//new line
+	UFUNCTION()
+		void DeleteExtinct();
 };

@@ -18,6 +18,14 @@ struct FAgentInfo;
 
 #define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execDeleteExtinct) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->DeleteExtinct(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execExportNavMeshToFile) \
 	{ \
 		P_GET_PROPERTY(UStrProperty,Z_Param_file_path); \
@@ -144,6 +152,14 @@ struct FAgentInfo;
 
 
 #define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execDeleteExtinct) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->DeleteExtinct(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execExportNavMeshToFile) \
 	{ \
