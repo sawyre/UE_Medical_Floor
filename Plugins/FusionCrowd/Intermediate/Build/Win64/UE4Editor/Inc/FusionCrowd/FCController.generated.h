@@ -16,7 +16,7 @@ struct FAgentInfo;
 #endif
 #define FUSIONCROWD_FCController_generated_h
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execExportNavMeshToFile) \
 	{ \
@@ -143,7 +143,7 @@ struct FAgentInfo;
 	}
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execExportNavMeshToFile) \
 	{ \
@@ -270,7 +270,7 @@ struct FAgentInfo;
 	}
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS_NO_PURE_DECLS \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUFCController(); \
 	friend struct Z_Construct_UClass_UFCController_Statics; \
@@ -279,7 +279,7 @@ public: \
 	DECLARE_SERIALIZER(UFCController)
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS \
 private: \
 	static void StaticRegisterNativesUFCController(); \
 	friend struct Z_Construct_UClass_UFCController_Statics; \
@@ -288,7 +288,7 @@ public: \
 	DECLARE_SERIALIZER(UFCController)
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_STANDARD_CONSTRUCTORS \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFCController(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFCController) \
@@ -301,7 +301,7 @@ private: \
 public:
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_ENHANCED_CONSTRUCTORS \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UFCController(UFCController&&); \
@@ -312,30 +312,30 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UFCController); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFCController)
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_PRIVATE_PROPERTY_OFFSET \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__IsRecordingEnabled() { return STRUCT_OFFSET(UFCController, IsRecordingEnabled); } \
 	FORCEINLINE static uint32 __PPO__MaxCuttingPolyBB() { return STRUCT_OFFSET(UFCController, MaxCuttingPolyBB); }
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_29_PROLOG
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_GENERATED_BODY_LEGACY \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_29_PROLOG
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_PRIVATE_PROPERTY_OFFSET \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_STANDARD_CONSTRUCTORS \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_PRIVATE_PROPERTY_OFFSET \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_GENERATED_BODY \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_PRIVATE_PROPERTY_OFFSET \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS_NO_PURE_DECLS \
-	FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_ENHANCED_CONSTRUCTORS \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_PRIVATE_PROPERTY_OFFSET \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_INCLASS_NO_PURE_DECLS \
+	New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -343,7 +343,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> FUSIONCROWD_API UClass* StaticClass<class UFCController>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h
+#define CURRENT_FILE_ID New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_FCController_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

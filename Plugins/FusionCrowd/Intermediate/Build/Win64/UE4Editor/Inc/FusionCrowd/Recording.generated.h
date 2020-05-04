@@ -13,14 +13,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FUSIONCROWD_Recording_generated_h
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_Recording_h_40_GENERATED_BODY \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_Recording_h_40_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FRecording_Statics; \
 	FUSIONCROWD_API static class UScriptStruct* StaticStruct();
 
 
 template<> FUSIONCROWD_API UScriptStruct* StaticStruct<struct FRecording>();
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_Recording_h_16_GENERATED_BODY \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_Recording_h_16_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FRecordingSlice_Statics; \
 	FUSIONCROWD_API static class UScriptStruct* StaticStruct();
 
@@ -28,7 +28,7 @@ template<> FUSIONCROWD_API UScriptStruct* StaticStruct<struct FRecording>();
 template<> FUSIONCROWD_API UScriptStruct* StaticStruct<struct FRecordingSlice>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_Recording_h
+#define CURRENT_FILE_ID New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_Recording_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FUSIONCROWD_OperationComponentType_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_OperationComponentType_h
+#define CURRENT_FILE_ID New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_OperationComponentType_h
 
 
 #define FOREACH_ENUM_EOPERATIONCOMPONENTTYPE(op) \

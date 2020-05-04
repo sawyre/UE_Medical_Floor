@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FUSIONCROWD_AgentInfo_generated_h
 
-#define FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_AgentInfo_h_14_GENERATED_BODY \
+#define New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_AgentInfo_h_14_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAgentInfo_Statics; \
 	FUSIONCROWD_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> FUSIONCROWD_API UScriptStruct* StaticStruct<struct FAgentInfo>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FCProject_Plugins_FusionCrowd_Source_FusionCrowd_Public_AgentInfo_h
+#define CURRENT_FILE_ID New_UE_Almaz_Plugins_FusionCrowd_Source_FusionCrowd_Public_AgentInfo_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

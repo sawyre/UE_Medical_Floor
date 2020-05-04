@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ExportNavMesh-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\MedicalFloor\UE_Medical_Floor\Intermediate\Build\Win64\FCTestEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.h.obj"
+"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\DebugGame\ExportNavMesh\Module.ExportNavMesh.cpp.obj"
+"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\DebugGame\ExportNavMesh\Module.ExportNavMesh.gen.cpp.obj"
+"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\DebugGame\ExportNavMesh\Default.rc2.res"
+/OUT:"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\DebugGame\ExportNavMesh\UE4Editor-ExportNavMesh-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_ExportNavMesh
