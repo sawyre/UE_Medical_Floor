@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private
+/I E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -431,22 +431,22 @@
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent
-/I E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd
-/I E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source
-/I E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd
-/I E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public
-/I E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd
+/I E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd
+/I E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source
+/I E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd
+/I E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public
+/I E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"E:\MedicalFloor\UE_Medical_Floor\Intermediate\Build\Win64\FCTestEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"E:\MedicalFloor\UE_Medical_Floor\Intermediate\Build\Win64\FCTestEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"E:\MedicalFloor\UE_Medical_Floor\Intermediate\Build\Win64\FCTestEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Module.FusionCrowd.cpp"
-/FI"E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Definitions.FusionCrowd.h"
-/Fo"E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Module.FusionCrowd.cpp.obj"
+/FI"E:\MedicalFloor\New_UE_Almaz\Intermediate\Build\Win64\FCTestEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"E:\MedicalFloor\New_UE_Almaz\Intermediate\Build\Win64\FCTestEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"E:\MedicalFloor\New_UE_Almaz\Intermediate\Build\Win64\FCTestEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Module.FusionCrowd.cpp"
+/FI"E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Definitions.FusionCrowd.h"
+/Fo"E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Module.FusionCrowd.cpp.obj"
 /TP
 /GR-
 /W4

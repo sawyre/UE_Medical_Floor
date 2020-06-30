@@ -1,6 +1,6 @@
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Definitions.ExportNavMesh.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\ExportNavMesh.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\ExportNavMesh.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Definitions.ExportNavMesh.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\ExportNavMesh.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\ExportNavMesh.h
 E:\Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
 E:\Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
@@ -16,13 +16,13 @@ E:\Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationOctree.
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Public\GenericOctree.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Public\GenericOctree.inl
 E:\Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationSystem.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\ExportNavMeshStyle.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\ExportNavMeshStyle.h
 E:\Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
 E:\Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
 E:\Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
 E:\Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
 E:\Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\ExportNavMeshCommands.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\ExportNavMeshCommands.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
 E:\Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/RecastNavMeshGenerator.h
@@ -40,8 +40,8 @@ E:\Games\UE_4.22\Engine\Source\Editor\LevelEditor\Public\LevelEditor.h
 E:\Games\UE_4.22\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
 E:\Games\UE_4.22\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Core/Public/HAL//PlatformFilemanager.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\ExportNavMeshCommands.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\ExportNavMeshStyle.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\ExportNavMeshCommands.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\ExportNavMeshStyle.cpp
 E:\Games\UE_4.22\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
@@ -52,8 +52,8 @@ E:\Games\UE_4.22\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\NavMeshViewer.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\NavMeshViewer.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Private\NavMeshViewer.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Source\ExportNavMesh\Public\NavMeshViewer.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Engine.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
@@ -820,4 +820,4 @@ E:\Games\UE_4.22\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboBox.h
 E:\Games\UE_4.22\Engine\Source\Runtime/Renderer/Public/MeshDrawShaderBindings.h
 E:\Games\UE_4.22\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
 E:\Games\UE_4.22\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Inc\ExportNavMesh\NavMeshViewer.generated.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Inc\ExportNavMesh\NavMeshViewer.generated.h

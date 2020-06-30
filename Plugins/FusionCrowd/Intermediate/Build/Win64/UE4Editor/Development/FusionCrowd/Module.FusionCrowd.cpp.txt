@@ -1,13 +1,13 @@
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Definitions.FusionCrowd.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\AgentInfo.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\AgentInfo.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/Export.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/FCArray.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/Config.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/IRecording.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export//IRecordingSlice.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/IStrategyComponent.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/ComponentId.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Development\FusionCrowd\Definitions.FusionCrowd.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\AgentInfo.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\AgentInfo.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/Export.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/FCArray.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/Config.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/IRecording.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export//IRecordingSlice.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/IStrategyComponent.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/ComponentId.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\vector
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xmemory
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cstdint
@@ -20,26 +20,26 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xutility
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cstring
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\utility
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/ModelAgentParams.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/INavMeshPublic.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/INavSystemPublic.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\OperationComponentType.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\OperationComponentType.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\AgentInfo.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\FCController.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\FCController.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\StrategyProxy.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\Recording.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\Recording.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\RecordingDrawer.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/ModelAgentParams.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/INavMeshPublic.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\ThirdParty\Inc\FusionCrowd\Export/INavSystemPublic.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\OperationComponentType.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\OperationComponentType.generated.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\AgentInfo.generated.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\FCController.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\FCController.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\StrategyProxy.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\Recording.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\Recording.generated.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\RecordingDrawer.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\tuple
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xtree
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\FCMovmentComponent.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\FCMovmentComponent.h
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\set
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\FCMovmentComponent.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\FCController.generated.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\FCMovmentComponent.generated.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\FCController.generated.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
@@ -54,13 +54,37 @@ E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
 E:\Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\FCMovmentComponent.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\FCMovmentComponent.cpp
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 E:\Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 E:\Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\FCNavMesh.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\FCNavMesh.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\FCNavMesh.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\FCNavMesh.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Engine\Public\Engine.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Core\Public\Core.h
@@ -726,16 +750,16 @@ E:\Games\UE_4.22\Engine\Source\Runtime\Slate\Public\Framework/Docking/LayoutServ
 E:\Games\UE_4.22\Engine\Source\Runtime/Renderer/Public/MeshDrawShaderBindings.h
 E:\Games\UE_4.22\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public\ProceduralMeshComponent.h
 E:\Games\UE_4.22\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent\ProceduralMeshComponent.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\FCNavMesh.generated.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\FusionCrowd.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Public\FusionCrowd.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Intermediate\Build\Win64\UE4Editor\Inc\FusionCrowd\FCNavMesh.generated.h
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\FusionCrowd.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Public\FusionCrowd.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
 E:\Games\UE_4.22\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\OperationComponentType.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\Recording.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\RecordingDrawer.cpp
-E:\MedicalFloor\UE_Medical_Floor\Plugins\FusionCrowd\Source\FusionCrowd\Private\StrategyProxy.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\OperationComponentType.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\Recording.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\RecordingDrawer.cpp
+E:\MedicalFloor\New_UE_Almaz\Plugins\FusionCrowd\Source\FusionCrowd\Private\StrategyProxy.cpp

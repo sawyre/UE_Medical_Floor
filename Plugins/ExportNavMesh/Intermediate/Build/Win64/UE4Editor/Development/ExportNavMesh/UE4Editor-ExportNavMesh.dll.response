@@ -31,10 +31,10 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"E:\MedicalFloor\UE_Medical_Floor\Intermediate\Build\Win64\FCTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
-"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Module.ExportNavMesh.cpp.obj"
-"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Module.ExportNavMesh.gen.cpp.obj"
-"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Default.rc2.res"
+"E:\MedicalFloor\New_UE_Almaz\Intermediate\Build\Win64\FCTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Module.ExportNavMesh.cpp.obj"
+"E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Module.ExportNavMesh.gen.cpp.obj"
+"E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\Default.rc2.res"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -72,8 +72,8 @@
 "E:\Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Renderer\UE4Editor-Renderer.lib"
 "E:\Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
 "E:\Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Development\NavigationSystem\UE4Editor-NavigationSystem.lib"
-/OUT:"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Binaries\Win64\UE4Editor-ExportNavMesh.dll"
-/IMPLIB:"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\UE4Editor-ExportNavMesh.suppressed.lib"
-/PDB:"E:\MedicalFloor\UE_Medical_Floor\Plugins\ExportNavMesh\Binaries\Win64\UE4Editor-ExportNavMesh.pdb"
+/OUT:"E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Binaries\Win64\UE4Editor-ExportNavMesh.dll"
+/IMPLIB:"E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Intermediate\Build\Win64\UE4Editor\Development\ExportNavMesh\UE4Editor-ExportNavMesh.suppressed.lib"
+/PDB:"E:\MedicalFloor\New_UE_Almaz\Plugins\ExportNavMesh\Binaries\Win64\UE4Editor-ExportNavMesh.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_ExportNavMesh
